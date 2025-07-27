@@ -18,7 +18,7 @@ This project uses basic HTML and CSS concepts such as semantic tags, external st
 
 ## Demo
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Technologies Used
 
