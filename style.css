@@ -1,0 +1,25 @@
+body{
+  background-color:thistle;
+  text-align: center; 
+}
+
+h1{
+  font-family: sans-serif;
+  color: blue;
+}
+
+.content{
+ border:5px solid aqua;
+ border-radius: 50px;
+ background-color: antiquewhite;
+ padding: 20px;
+ margin-top: auto;
+ margin-bottom: auto;
+ margin-right: 25%;
+ margin-left: 25%;
+}
+
+.size{
+  width: 250px;
+  height: 250px;
+}
